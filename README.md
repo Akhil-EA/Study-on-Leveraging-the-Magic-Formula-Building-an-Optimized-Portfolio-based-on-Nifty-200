@@ -1,0 +1,2 @@
+# Study-on-Leveraging-the-Magic-Formula-Building-an-Optimized-Portfolio-based-on-Nifty-200
+This repository showcases my internship project at Hedge Equities (2025), where I crafted an optimized investment portfolio based on the Nifty 200 Index. Conducted from May 12, 2022, to May 13, 2025, this project blends the Magic Formula for stock selection with Modern Portfolio Theory for optimization, achieving a robust risk-adjusted return.
